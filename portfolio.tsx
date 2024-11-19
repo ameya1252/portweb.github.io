@@ -288,13 +288,13 @@ export default function Portfolio() {
           <div className="container mx-auto px-6">
             <h2 className="text-3xl font-bold mb-8 text-center">Contact Me</h2>
             <div className="flex justify-center space-x-6">
-              <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
+              <a href="https://github.com/ameya1252" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
                 <Github size={24} />
               </a>
-              <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
+              <a href="https://linkedin.com/in/ameya1252" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
                 <Linkedin size={24} />
               </a>
-              <a href="mailto:your.email@example.com" className="text-gray-300 hover:text-white">
+              <a href="mailto:ameyaudeshmukh@gmail.com" className="text-gray-300 hover:text-white">
                 <Mail size={24} />
               </a>
             </div>
